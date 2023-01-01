@@ -2,7 +2,7 @@
 title: Choosing Epidemiological Journals
 author: 
   - Ehsan Karim
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "31 December 2022"
 output:
   bookdown::html_document2:
     citation_package: natbib
@@ -33,11 +33,7 @@ geometry: margin=1in
 
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, fig.pos='H')
-knitr::opts_chunk$set(tidy.opts=list(width.cutoff=60), tidy=TRUE)
 
-```
 
 \pagenumbering{arabic}
 
