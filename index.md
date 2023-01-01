@@ -6,6 +6,7 @@ date: "31 December 2022"
 output:
   bookdown::html_document2:
     citation_package: natbib
+    toc: true
     df_print: paged
     fig_caption: yes
     highlight: textmate
@@ -20,6 +21,7 @@ output:
     number_sections: yes
   pdf_document:
     citation_package: natbib
+    toc: true
     fig_caption: yes
     keep_tex: yes
     latex_engine: xelatex
