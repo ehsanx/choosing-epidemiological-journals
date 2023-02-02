@@ -227,28 +227,28 @@ outline key results / importance in 3-5 short bullet points
 - [Genetic Epidemiology](https://onlinelibrary.wiley.com/journal/10982272)
 - [Biostatistics & Epidemiology](https://www.tandfonline.com/toc/tbep20/current)
 - [Clinical Epidemiology and Global Health](https://www.sciencedirect.com/journal/clinical-epidemiology-and-global-health)
-- [Journal of Epidemiology](https://www.sciencedirect.com/journal/journal-of-epidemiology)
 
 
 # Others {-}
 
-I am not familiar with the following publishers / some seem to be international:
+I am not/less familiar with the following: 
 
-- [Journal of Epidemiology](https://jeaweb.jp/journal/)
-- [Journal of Epidemiology](https://www.jstage.jst.go.jp/browse/jea)
-- [Journal of Epidemiology](https://doaj.org/toc/1349-9092)
-- [Clinical Epidemiology](https://www.dovepress.com/clinical-epidemiology-journal)
-- [Frontiers in Epidemiology](https://www.frontiersin.org/journals/epidemiology)
-- [Epidemiology and Health](https://www.e-epih.org/)
-- [Journal of Biostatistics and Epidemiology](https://jbe.tums.ac.ir/index.php/jbe)
-- [Epidemiology and Health System Journal](http://ijer.skums.ac.ir/)
-- [Iranian Journal of Epidemiology](https://irje.tums.ac.ir/en)
-- [Nepal Journal of Epidemiology](https://www.nepjol.info/index.php/NJE)
-- [Journal of Preventive Epidemiology](https://jprevepi.com/)
-- [Epidemiology and Society Health Review](http://journal2.uad.ac.id/index.php/eshr/index)
-- [Cancer Epidemiology, Biomarkers & Prevention](https://aacrjournals.org/cebp)
-- [Journal of Interventional Epidemiology and Public Health](https://www.afenet-journal.net/#gsc.tab=0)
-- [International Journal of Epidemiology and Health Sciences](http://www.ijehs.com/)
+- [Clinical Epidemiology](https://www.dovepress.com/clinical-epidemiology-journal): See Wiki about the publisher [Dove Medical Press](https://en.wikipedia.org/wiki/Dove_Medical_Press)
+- [Frontiers in Epidemiology](https://www.frontiersin.org/journals/epidemiology): See Wiki about the publisher [Frontiers Media](https://en.wikipedia.org/wiki/Frontiers_Media)
+- [Cancer Epidemiology, Biomarkers & Prevention](https://aacrjournals.org/cebp): See Wiki about the publisher [AACR](https://en.wikipedia.org/wiki/American_Association_for_Cancer_Research)
+
+Some of the following seem to be international:
+
+- [Journal of Epidemiology](https://jeaweb.jp/journal/): Japan Epidemiological Association
+- [Epidemiology and Health](https://www.e-epih.org/): Korean Society of Epidemiology
+- [Journal of Biostatistics and Epidemiology](https://jbe.tums.ac.ir/index.php/jbe): Tehran University of Medical Sciences
+- [Epidemiology and Health System Journal](http://ijer.skums.ac.ir/): Shahrekord University of Medical Sciences
+- [Iranian Journal of Epidemiology](https://irje.tums.ac.ir/en): Tehran University of Medical Sciences
+- [Nepal Journal of Epidemiology](https://www.nepjol.info/index.php/NJE): Tribhuvan University Central Library
+- [Journal of Preventive Epidemiology](https://jprevepi.com/): Society of Diabetic Nephropathy Prevention
+- [Epidemiology and Society Health Review](http://journal2.uad.ac.id/index.php/eshr/index): Universitas Ahmad Dahlan
+- [Journal of Interventional Epidemiology and Public Health](https://www.afenet-journal.net/#gsc.tab=0): African Field Epidemiology Network
+- [International Journal of Epidemiology and Health Sciences](http://www.ijehs.com/): based in the Netherlands
 
 
 Missing any interesting Epidemiology journal? [Let me know](https://ehsank.com/).
