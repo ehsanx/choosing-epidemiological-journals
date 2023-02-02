@@ -16,7 +16,6 @@
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-  \setmainfont[]{Times New Roman}
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -63,23 +62,11 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
-\usepackage{graphicx,longtable,booktabs,threeparttable}
-\usepackage{float}
-\usepackage{setspace}\doublespacing
-\floatplacement{figure}{H}
-\floatplacement{table}{H}
-\usepackage{xcolor,lipsum,caption}
-\usepackage[round]{natbib}
-\usepackage{pdflscape}
-\usepackage{lscape}
-\newcommand{\blandscape}{\begin{landscape}}
-\newcommand{\elandscape}{\end{landscape}}
-\usepackage{array} \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}} \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}} \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
-\bibliographystyle{plainnat2}
+\bibliographystyle{plainnat}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same} % disable monospaced font for URLs
@@ -91,16 +78,36 @@
 
 \title{Choosing Epidemiological Journals}
 \author{Ehsan Karim}
-\date{31 December 2022}
+\date{01 February 2023}
 
 \begin{document}
 \maketitle
 
+{
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
 \pagenumbering{arabic}
 
-\hypertarget{ije}{%
-\section*{IJE}\label{ije}}
-\addcontentsline{toc}{section}{IJE}
+You can find more information about choosing a peer-reviewed journal (in
+general) in this
+\href{https://ehsanx.github.io/Scientific-Writing-for-Health-Research/finding-suitable-journals.html}{site}.
+
+\textbf{Disclaimer}: See the instruction links for added descriptions.
+Some of the descriptions are copied from the instruction pages as is
+(some journals provide their own summary). This page is created for
+personal usage; may not be most updated; please check the up-to-date
+instructions from the respective journal sites. Some of these journals
+are associated with very high APC or open access fees; please consult
+your institution if they have any discount / agreement with journals /
+publishers. Also check on your own if any of these are predatory
+journals or not. The journals are not listed in any particular order.
+
+\hypertarget{international-journal-of-epidemiology-ije}{%
+\section*{International Journal of Epidemiology /
+IJE}\label{international-journal-of-epidemiology-ije}}
+\addcontentsline{toc}{section}{International Journal of Epidemiology /
+IJE}
 
 \href{https://academic.oup.com/ije/pages/General_Instructions}{Instructions
 link here}
@@ -205,9 +212,10 @@ Remembrances & up to 400 words, with photograph & \\
 \bottomrule()
 \end{longtable}
 
-\hypertarget{aje}{%
-\section*{AJE}\label{aje}}
-\addcontentsline{toc}{section}{AJE}
+\hypertarget{american-journal-of-epidemiology-aje}{%
+\section*{American Journal of Epidemiology /
+AJE}\label{american-journal-of-epidemiology-aje}}
+\addcontentsline{toc}{section}{American Journal of Epidemiology / AJE}
 
 \href{https://academic.oup.com/aje/pages/Instructions_To_Authors}{Instructions
 link here}
@@ -229,18 +237,11 @@ Abstract?
 \end{minipage} \\
 \midrule()
 \endhead
-& ORIGINAL RESEARCH ARTICLES & & \\
+& Description & & \\
 Original Contribution & Reports of original research comprising
 laboratory, field, clinical, or mathematical modeling studies of
 conditions that impact the population's health, as well as studies of
-statistical or methodological issues. We encourage methodological
-contributions aimed at improving the design and analysis of
-epidemiologic studies. Although we recognize that such papers may
-require a technical level above that of the typical original
-contribution published in the Journal, we encourage authors of
-methodological papers to make them as comprehensible as possible by
-using examples based on epidemiologic studies and by relegating highly
-technical material to appendices. & 4,000 & Yes \\
+statistical or methodological issues. & 4,000 & Yes \\
 Practice of Epidemiology and Methodology & Papers dealing with the
 practical application of epidemiologic or statistical methods (such as
 the implementation of statistical techniques or the evaluation of
@@ -279,9 +280,55 @@ limit & No \\
 \bottomrule()
 \end{longtable}
 
-\hypertarget{pds}{%
-\section*{PDS}\label{pds}}
-\addcontentsline{toc}{section}{PDS}
+\hypertarget{journal-of-clinical-epidemiology-jce}{%
+\section*{Journal of Clinical Epidemiology /
+JCE}\label{journal-of-clinical-epidemiology-jce}}
+\addcontentsline{toc}{section}{Journal of Clinical Epidemiology / JCE}
+
+\href{https://www.elsevier.com/journals/journal-of-clinical-epidemiology/0895-4356/guide-for-authors}{Instructions
+link here}
+
+Abstract headings: Objective, Study Design and Setting, Results, and
+Conclusion
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.2114}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1626}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1545}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1789}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1463}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1463}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Type
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Word count
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Abstract
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+References
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Table
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Figure
+\end{minipage} \\
+\midrule()
+\endhead
+Reviews & 3,000 words & 200 words & 50 references & 5 tables & 5
+figures \\
+Original Articles & 3,000 words & 200 words & 50 references & 5 tables &
+5 figures \\
+Letters & 500 words & 200 words & & & \\
+Commentaries & 2,500 words & 200 words & 10 references & 2 figures & 2
+tables \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{pharmacoepidemiology-and-drug-safety-pds}{%
+\section*{Pharmacoepidemiology and Drug Safety /
+PDS}\label{pharmacoepidemiology-and-drug-safety-pds}}
+\addcontentsline{toc}{section}{Pharmacoepidemiology and Drug Safety /
+PDS}
 
 \href{https://onlinelibrary.wiley.com/page/journal/10991557/homepage/forauthors.html}{Instructions
 link here}
@@ -335,17 +382,17 @@ recently published articles, or short, free-standing opinion pieces. &
 1,000 limit, unstructured & No abstract & \\
 Real-World Data Sources for Pharmacoepidemiologic Research & Dedicated
 to describing available real-world data sources for
-pharmacoepidemiologic studies. See ``Profiling Real-World Data Sources
-for Pharmacoepidemiologic Research: A Call for Papers'' for more
-information. & 3000 limit (excluding abstract, tables, figures, and
-references); unstructured. & Yes, unstructured, no more than 250 words &
-Five Key Points See FAQs here for the core contents to cover. \\
+pharmacoepidemiologic studies. & 3000 limit (excluding abstract, tables,
+figures, and references); unstructured. & Yes, unstructured, no more
+than 250 words & Five Key Points See FAQs here for the core contents to
+cover. \\
 \bottomrule()
 \end{longtable}
 
-\hypertarget{eje}{%
-\section*{EJE}\label{eje}}
-\addcontentsline{toc}{section}{EJE}
+\hypertarget{european-journal-of-epidemiology-eje}{%
+\section*{European Journal of Epidemiology /
+EJE}\label{european-journal-of-epidemiology-eje}}
+\addcontentsline{toc}{section}{European Journal of Epidemiology / EJE}
 
 \href{https://www.springer.com/journal/10654/submission-guidelines}{Instructions
 link here}
@@ -383,9 +430,10 @@ words and 5 references. & \\
 \bottomrule()
 \end{longtable}
 
-\hypertarget{annals-of-epidemiology}{%
-\section*{Annals of Epidemiology}\label{annals-of-epidemiology}}
-\addcontentsline{toc}{section}{Annals of Epidemiology}
+\hypertarget{annals-of-epidemiology-aoe}{%
+\section*{Annals of Epidemiology /
+AoE}\label{annals-of-epidemiology-aoe}}
+\addcontentsline{toc}{section}{Annals of Epidemiology / AoE}
 
 \href{https://www.sciencedirect.com/journal/annals-of-epidemiology}{Instructions
 link here}
@@ -430,6 +478,229 @@ Book Reviews & 1500; generally invited & & & \\
 \bottomrule()
 \end{longtable}
 
-  \bibliography{bibliography3.bib}
+\hypertarget{global-epidemiology-ge}{%
+\section*{Global Epidemiology / GE}\label{global-epidemiology-ge}}
+\addcontentsline{toc}{section}{Global Epidemiology / GE}
+
+\href{https://www.elsevier.com/journals/global-epidemiology/2590-1133/guide-for-authors}{Instructions
+link here}
+
+Follows instructions established by the
+\href{http://www.icmje.org/recommendations/}{Uniform Requirements for
+Manuscripts Submitted to a Biomedical Journal}.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2453}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.7170}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.0377}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Type
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Description
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} \\
+\midrule()
+\endhead
+Original Research Articles & (including reports of null results) & \\
+Review Articles & & \\
+Reports of methodological developments and innovations & highest
+priority to those that focus on the concepts, ideas and philosophical
+foundations of epidemiologic methods. & \\
+Study Protocols & In-depth descriptions of methods to be used in
+soon-to-be-launched epidemiological studies. & \\
+Teaching articles & up-to-date discussions of epidemiologic methods and
+practices, that achieve excellence in explanation, and that are suitable
+for use in the classroom or for continuing education & \\
+Validation Studies & inform quantitative bias (uncertainty, sensitivity)
+analyses. & \\
+Commentaries (usually invited) & & \\
+Editorials (usually invited) & & \\
+Letters to the Editor & & \\
+International Perspectives & Commentaries on public health issues around
+the world, especially in developing countries. & \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{epidemiology-infection-ei}{%
+\section*{Epidemiology \& Infection /
+EI}\label{epidemiology-infection-ei}}
+\addcontentsline{toc}{section}{Epidemiology \& Infection / EI}
+
+\href{https://www.elsevier.com/journals/global-epidemiology/2590-1133/guide-for-authors}{Instructions
+link here}
+
+outline key results / importance in 3-5 short bullet points
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1546}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.3478}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1594}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1353}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2029}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Type
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Word count
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Abstract
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+References
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Table Figure
+\end{minipage} \\
+\midrule()
+\endhead
+Original Papers & preferably between 2000 and 4000 words (excluding
+references) & & below 40 & \\
+Short Reports & below 3000 (excluding references) & & up to 10
+references & not more than one table or figure \\
+Review Articles & between 2500 and 4000 words & & & no limit to tables
+and figures \\
+From the Field & up to 2000 words & no longer than 100 words & maximum
+of 15 & \\
+For Debate & & & & \\
+Letters to the Editor & & & & \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{journal-of-epidemiology-and-community-health-jech}{%
+\section*{Journal of Epidemiology and Community Health /
+JECH}\label{journal-of-epidemiology-and-community-health-jech}}
+\addcontentsline{toc}{section}{Journal of Epidemiology and Community
+Health / JECH}
+
+\href{https://jech.bmj.com/pages/authors/\#submission_guidelines}{Instructions
+link here}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2658}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1126}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.3378}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1261}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1577}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Type
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Word count
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Abstract
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+References
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Table or Illustration/Box
+\end{minipage} \\
+\midrule()
+\endhead
+Editorial & up to 1200 words & & & 1 \\
+Commentary & up to 800 words & & up to 12 references & \\
+Original research & up to 3000 words & maximum of 250 words (Background,
+Methods, Results and Conclusion) & up to 40 & up to 5 \\
+Short report & up to 1500 words & up to 200 words & up to 20 & up to
+2 \\
+Evidence-based public health policy and practice & up to 3000 words & up
+to 250 words & up to 40 & 5 \\
+Theory and methods & up to 3000 words & up to 250 words & up to 40 & up
+to 5 \\
+Essay & up to 3000 words & up to 250 words & up to 50 & up to 5 \\
+Glossary & up to 3000 words & should not exceed 150 words & up to 50
+& \\
+Debate & up to 1500 words & up to 150 words & up to 15 & 1 \\
+Research agenda & up to 1500 words & up to 150 words & up to 30 & up to
+2 \\
+Speakers' corner & up to 800 words & & up to 10 & 0 \\
+Gallery & up to 200 words & & & 1 \\
+Letter & up to 400 words & & up to 5 & 1 \\
+Obituary & up to 250 words & & & 1 \\
+Aphorism & up to 200 words & & up to 5 & 1 \\
+Supplements & & & & \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{others-from-known-publishers}{%
+\section*{Others from known
+publishers}\label{others-from-known-publishers}}
+\addcontentsline{toc}{section}{Others from known publishers}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.springer.com/journal/44197}{Journal of Epidemiology
+  and Global Health}
+\item
+  \href{https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology}{Infection
+  Control \& Hospital Epidemiology}
+\item
+  \href{https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences}{Epidemiology
+  and Psychiatric Sciences}
+\item
+  \href{https://www.sciencedirect.com/journal/clinical-epidemiology-and-global-health}{Clinical
+  Epidemiology and Global Health}
+\item
+  \href{https://www.sciencedirect.com/journal/journal-of-epidemiology}{Journal
+  of Epidemiology}
+\item
+  \href{https://onlinelibrary.wiley.com/journal/10982272}{Genetic
+  Epidemiology}
+\item
+  \href{https://www.tandfonline.com/toc/tbep20/current}{Biostatistics \&
+  Epidemiology}
+\end{itemize}
+
+\hypertarget{others}{%
+\section*{Others}\label{others}}
+\addcontentsline{toc}{section}{Others}
+
+I am not familiar with the following publishers / some seem to be
+international:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://jeaweb.jp/journal/}{Journal of Epidemiology}
+\item
+  \href{https://www.jstage.jst.go.jp/browse/jea}{Journal of
+  Epidemiology}
+\item
+  \href{https://doaj.org/toc/1349-9092}{Journal of Epidemiology}
+\item
+  \href{https://www.dovepress.com/clinical-epidemiology-journal}{Clinical
+  Epidemiology}
+\item
+  \href{https://www.frontiersin.org/journals/epidemiology}{Frontiers in
+  Epidemiology}
+\item
+  \href{https://www.e-epih.org/}{Epidemiology and Health}
+\item
+  \href{https://jbe.tums.ac.ir/index.php/jbe}{Journal of Biostatistics
+  and Epidemiology}
+\item
+  \href{http://ijer.skums.ac.ir/}{Epidemiology and Health System
+  Journal}
+\item
+  \href{https://irje.tums.ac.ir/en}{Iranian Journal of Epidemiology}
+\item
+  \href{https://www.nepjol.info/index.php/NJE}{Nepal Journal of
+  Epidemiology}
+\item
+  \href{https://jprevepi.com/}{Journal of Preventive Epidemiology}
+\item
+  \href{http://journal2.uad.ac.id/index.php/eshr/index}{Epidemiology and
+  Society Health Review}
+\item
+  \href{https://aacrjournals.org/cebp}{Cancer Epidemiology, Biomarkers
+  \& Prevention}
+\item
+  \href{https://www.afenet-journal.net/\#gsc.tab=0}{Journal of
+  Interventional Epidemiology and Public Health}
+\item
+  \href{http://www.ijehs.com/}{International Journal of Epidemiology and
+  Health Sciences}
+\end{itemize}
+
+Missing any interesting Epidemiology journal?
+\href{https://ehsank.com/}{Let me know}.
 
 \end{document}

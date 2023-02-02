@@ -2,7 +2,7 @@
 title: Choosing Epidemiological Journals
 author: 
   - Ehsan Karim
-date: "31 December 2022"
+date: "01 February 2023"
 output:
   bookdown::html_document2:
     citation_package: natbib
@@ -39,10 +39,9 @@ geometry: margin=1in
 
 \pagenumbering{arabic}
 
-
-See the instruction links for added descriptions. Some of the descriptions are copied from the instruction pages as is (some journals provide their own summary). This page is created for personal usage. 
-
 You can find more information about choosing a peer-reviewed journal (in general) in this [site](https://ehsanx.github.io/Scientific-Writing-for-Health-Research/finding-suitable-journals.html).
+
+**Disclaimer**: See the instruction links for added descriptions. Some of the descriptions are copied from the instruction pages as is (some journals provide their own summary). This page is created for personal usage; may not be most updated; please check the up-to-date instructions from the respective journal sites. Some of these journals are associated with very high APC or open access fees; please consult your institution if they have any discount / agreement with journals / publishers. Also check on your own if any of these are predatory journals or not. The journals are not listed in any particular order.
 
 # International Journal of Epidemiology / IJE {-}
 
@@ -102,6 +101,19 @@ You can find more information about choosing a peer-reviewed journal (in general
 | Erratum                                          | A brief article detailing necessary corrections to a previously published AJE article. They must include a description of the error, the corrected text, and a reference to the original article.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | No limit   | No        |
 
 
+# Journal of Clinical Epidemiology / JCE {-}
+
+[Instructions link here](https://www.elsevier.com/journals/journal-of-clinical-epidemiology/0895-4356/guide-for-authors)
+
+Abstract headings: Objective, Study Design and Setting, Results, and Conclusion
+
+|     Type                 |     Word count     |     Abstract      |     References       |     Table        |     Figure       |
+|--------------------------|--------------------|-------------------|----------------------|------------------|------------------|
+|     Reviews              |     3,000 words    |     200 words     |     50 references    |     5 tables     |     5 figures    |
+|     Original Articles    |     3,000 words    |     200 words     |     50 references    |     5 tables     |     5 figures    |
+|     Letters              |     500 words      |     200 words     |                      |                  |                  |
+|     Commentaries         |     2,500 words    |     200 words     |     10 references    |     2 figures    |     2 tables     |
+
 # Pharmacoepidemiology and Drug Safety / PDS {-}
 
 [Instructions link here](https://onlinelibrary.wiley.com/page/journal/10991557/homepage/forauthors.html)
@@ -131,7 +143,7 @@ You can find more information about choosing a peer-reviewed journal (in general
 | Commentaries |   Solicited and non-solicited papers on topical subjects will be published.||
 | Letters to the Editor |   |The length is limited to a maximum of 1000 words and 5 references.|   
 
-# Annals of Epidemiology {-}
+# Annals of Epidemiology / AoE {-}
 
 [Instructions link here](https://www.sciencedirect.com/journal/annals-of-epidemiology)
 
@@ -146,6 +158,93 @@ You can find more information about choosing a peer-reviewed journal (in general
 |     Editorials                  |     1500; generally invited but   could be author initiated after consultation    |                             |                                                           |     a comment on a paper that has appeared   recently in the Annals                                                                                                                                                                                                                                                           |
 |     Letters to the Editor       |     750                                                                           |     Not allowed             |                                                           |                                                                                                                                                                                                                                                                                                                               |
 |     Book Reviews                |     1500; generally invited                                                       |                             |                                                           |                                                                                                                                                                                                                                                                                                                               |
+
+# Global Epidemiology / GE {-}
+
+[Instructions link here](https://www.elsevier.com/journals/global-epidemiology/2590-1133/guide-for-authors)
+
+Follows instructions established by the [Uniform Requirements for Manuscripts Submitted to a Biomedical Journal](http://www.icmje.org/recommendations/).
+
+|     Type                                                        |     Description                                                                                                                                                                              |          |
+|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|     Original Research   Articles                                |     (including   reports of null results)                                                                                                                                                    |          |
+|     Review Articles                                             |                                                                                                                                                                                              |          |
+|     Reports of   methodological developments and innovations    |     highest priority to those that focus on the concepts, ideas and   philosophical foundations of epidemiologic methods.                                                                    |          |
+|     Study Protocols                                             |     In-depth descriptions of methods to be used in soon-to-be-launched   epidemiological studies.                                                                                            |          |
+|     Teaching articles                                           |     up-to-date discussions of epidemiologic methods and practices, that   achieve excellence in explanation, and that are suitable for use in the   classroom or for continuing education    |          |
+|     Validation Studies                                          |     inform quantitative bias (uncertainty, sensitivity) analyses.                                                                                                                            |          |
+|     Commentaries (usually   invited)                            |                                                                                                                                                                                              |          |
+|     Editorials (usually   invited)                              |                                                                                                                                                                                              |          |
+|     Letters to the Editor                                       |                                                                                                                                                                                              |          |
+|     International   Perspectives                                |     Commentaries on public health issues around the world, especially in   developing countries.                                                                                             |          |
+# Epidemiology & Infection / EI {-}
+
+[Instructions link here](https://www.elsevier.com/journals/global-epidemiology/2590-1133/guide-for-authors)
+
+outline key results / importance in 3-5 short bullet points
+
+|     Type                       |     Word count                                                         |     Abstract                    |     References             |     Table Figure                         |
+|--------------------------------|------------------------------------------------------------------------|---------------------------------|----------------------------|------------------------------------------|
+|     Original   Papers          |     preferably between 2000 and 4000 words (excluding   references)    |                                 |     below 40               |                                          |
+|     Short   Reports            |      below 3000 (excluding references)                                 |                                 |     up to 10 references    |     not more than one table or figure    |
+|     Review   Articles          |     between 2500 and 4000 words                                        |                                 |                            |     no limit to tables and figures       |
+|     From the   Field           |     up to 2000 words                                                   |     no longer than 100 words    |     maximum of 15          |                                          |
+|     For Debate                 |                                                                        |                                 |                            |                                          |
+|     Letters to   the Editor    |                                                                        |                                 |                            |                                          |
+
+# Journal of Epidemiology and Community Health / JECH {-}
+
+[Instructions link here](https://jech.bmj.com/pages/authors/#submission_guidelines)
+
+|     Type                                                  |     Word count          |     Abstract                                                              |     References             |     Table  or Illustration/Box    |
+|-----------------------------------------------------------|-------------------------|---------------------------------------------------------------------------|----------------------------|-----------------------------------|
+|     Editorial                                             |     up to 1200 words    |                                                                           |                            |     1                             |
+|     Commentary                                            |     up to 800 words     |                                                                           |     up to 12 references    |                                   |
+|     Original research                                     |     up to 3000 words    |     maximum of 250 words (Background, Methods, Results and Conclusion)    |     up to 40               |     up to 5                       |
+|     Short   report                                        |     up to 1500 words    |     up to 200 words                                                       |     up to 20               |     up to 2                       |
+|     Evidence-based public health policy   and practice    |     up to 3000 words    |     up to 250 words                                                       |     up to 40               |     5                             |
+|     Theory and methods                                    |     up to 3000 words    |     up to 250 words                                                       |     up to 40               |     up to 5                       |
+|     Essay                                                 |     up to 3000 words    |     up to 250 words                                                       |     up to 50               |     up to 5                       |
+|     Glossary                                              |     up to 3000 words    |     should not exceed 150 words                                           |     up to 50               |                                   |
+|     Debate                                                |     up to 1500 words    |     up to 150 words                                                       |     up to 15               |     1                             |
+|     Research agenda                                       |     up to 1500 words    |     up to 150 words                                                       |     up to 30               |     up to 2                       |
+|     Speakers' corner                                      |     up to 800 words     |                                                                           |     up to 10               |     0                             |
+|     Gallery                                               |     up to 200 words     |                                                                           |                            |     1                             |
+|     Letter                                                |     up to 400 words     |                                                                           |     up to 5                |     1                             |
+|     Obituary                                              |     up to 250 words     |                                                                           |                            |     1                             |
+|     Aphorism                                              |     up to 200 words     |                                                                           |     up to 5                |     1                             |
+|     Supplements                                           |                         |                                                                           |                            |                                   |
+
+# Others from known publishers {-}
+
+- [Journal of Epidemiology and Global Health](https://www.springer.com/journal/44197)
+- [Infection Control & Hospital Epidemiology](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology)
+- [Epidemiology and Psychiatric Sciences](https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences)
+- [Genetic Epidemiology](https://onlinelibrary.wiley.com/journal/10982272)
+- [Biostatistics & Epidemiology](https://www.tandfonline.com/toc/tbep20/current)
+- [Clinical Epidemiology and Global Health](https://www.sciencedirect.com/journal/clinical-epidemiology-and-global-health)
+- [Journal of Epidemiology](https://www.sciencedirect.com/journal/journal-of-epidemiology)
+
+
+# Others {-}
+
+I am not familiar with the following publishers / some seem to be international:
+
+- [Journal of Epidemiology](https://jeaweb.jp/journal/)
+- [Journal of Epidemiology](https://www.jstage.jst.go.jp/browse/jea)
+- [Journal of Epidemiology](https://doaj.org/toc/1349-9092)
+- [Clinical Epidemiology](https://www.dovepress.com/clinical-epidemiology-journal)
+- [Frontiers in Epidemiology](https://www.frontiersin.org/journals/epidemiology)
+- [Epidemiology and Health](https://www.e-epih.org/)
+- [Journal of Biostatistics and Epidemiology](https://jbe.tums.ac.ir/index.php/jbe)
+- [Epidemiology and Health System Journal](http://ijer.skums.ac.ir/)
+- [Iranian Journal of Epidemiology](https://irje.tums.ac.ir/en)
+- [Nepal Journal of Epidemiology](https://www.nepjol.info/index.php/NJE)
+- [Journal of Preventive Epidemiology](https://jprevepi.com/)
+- [Epidemiology and Society Health Review](http://journal2.uad.ac.id/index.php/eshr/index)
+- [Cancer Epidemiology, Biomarkers & Prevention](https://aacrjournals.org/cebp)
+- [Journal of Interventional Epidemiology and Public Health](https://www.afenet-journal.net/#gsc.tab=0)
+- [International Journal of Epidemiology and Health Sciences](http://www.ijehs.com/)
 
 
 Missing any interesting Epidemiology journal? [Let me know](https://ehsank.com/).
