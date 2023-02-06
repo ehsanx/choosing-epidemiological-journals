@@ -45,9 +45,17 @@ knitr::opts_chunk$set(tidy.opts=list(width.cutoff=60), tidy=TRUE)
 
 You can find more information about choosing a peer-reviewed journal (in general) in this [site](https://ehsanx.github.io/Scientific-Writing-for-Health-Research/finding-suitable-journals.html).
 
-**Disclaimer**: See the instruction links for added descriptions. Some of the descriptions are copied from the instruction pages as is (some journals provide their own summary). This page is created for personal usage; may not be most updated; please check the up-to-date instructions from the respective journal sites. Some of these journals are associated with very high APC or open access fees; please consult your institution if they have any discount / agreement with journals / publishers. Also check on your own if any of these are predatory journals or not. The journals are not listed in any particular order.
+> **_Disclaimer:_** 
+(1) This page is created for personal usage; may not be the most updated; please check the up-to-date instructions from the respective journal sites (links added at the time of the last update; feel free to report broken links). 
+(2) The journals are not listed in any particular order. 
+(3) See the instruction links for added descriptions. Some of the descriptions are copied from the instruction pages as is (some journals provide their own summary, e.g., PDS). 
+(4) Some of these journals are associated with very high [APC](https://en.wikipedia.org/wiki/Article_processing_charge) / open access (or page charge, or color charge) fees; please consult your institution if they have any discount / agreement with journals / publishers (e.g., here is an [example](https://scholcomm.ubc.ca/open-access-publisher-discounts/)). 
+(5) Please check on your own if any of these are [predatory journals](https://en.wikipedia.org/wiki/Predatory_publishing) or not (e.g., see [Beall's List](https://beallslist.net/), [Stefan and Helgesson, 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1135) or [Grudniewicz et al., 2019](https://www.nature.com/articles/d41586-019-03759-y)). 
 
-# International Journal of Epidemiology / IJE {-}
+
+# General Epidemiology Journals
+
+## International Journal of Epidemiology / IJE {-}
 
 [Instructions link here](https://academic.oup.com/ije/pages/General_Instructions)
 
@@ -67,7 +75,7 @@ You can find more information about choosing a peer-reviewed journal (in general
 |     Obituaries                       |     500-1000   + high-quality image of the person                                                   |                           |            |                                                                   |                                                         |                    |
 |     Poetry                           |     usually   commissioned but we will consider uninvited submissions                               |                           |            |                                                                   |                                                         |                    |
 
-# Epidemiology {-}
+## Epidemiology / EPI {-}
 
 [Instructions link here](https://edmgr.ovid.com/epid/accounts/ifauth.htm)
 
@@ -83,7 +91,7 @@ You can find more information about choosing a peer-reviewed journal (in general
 |     Remembrances                         |     up to 400 words, with photograph                    |                                                                                                                                                                                                                                                                                                                                                    |               |
 
 
-# American Journal of Epidemiology / AJE {-}
+## American Journal of Epidemiology / AJE {-}
 
 [Instructions link here](https://academic.oup.com/aje/pages/Instructions_To_Authors)
 
@@ -105,7 +113,7 @@ You can find more information about choosing a peer-reviewed journal (in general
 | Erratum                                          | A brief article detailing necessary corrections to a previously published AJE article. They must include a description of the error, the corrected text, and a reference to the original article.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | No limit   | No        |
 
 
-# Journal of Clinical Epidemiology / JCE {-}
+## Journal of Clinical Epidemiology / JCE {-}
 
 [Instructions link here](https://www.elsevier.com/journals/journal-of-clinical-epidemiology/0895-4356/guide-for-authors)
 
@@ -118,7 +126,7 @@ Abstract headings: Objective, Study Design and Setting, Results, and Conclusion
 |     Letters              |     500 words      |     200 words     |                      |                  |                  |
 |     Commentaries         |     2,500 words    |     200 words     |     10 references    |     2 figures    |     2 tables     |
 
-# Pharmacoepidemiology and Drug Safety / PDS {-}
+## Pharmacoepidemiology and Drug Safety / PDS {-}
 
 [Instructions link here](https://onlinelibrary.wiley.com/page/journal/10991557/homepage/forauthors.html)
 
@@ -134,7 +142,7 @@ Abstract headings: Objective, Study Design and Setting, Results, and Conclusion
 
 
 
-# European Journal of Epidemiology / EJE {-}
+## European Journal of Epidemiology / EJE {-}
 
 [Instructions link here](https://www.springer.com/journal/10654/submission-guidelines)
 
@@ -147,7 +155,7 @@ Abstract headings: Objective, Study Design and Setting, Results, and Conclusion
 | Commentaries |   Solicited and non-solicited papers on topical subjects will be published.||
 | Letters to the Editor |   |The length is limited to a maximum of 1000 words and 5 references.|   
 
-# Annals of Epidemiology / AoE {-}
+## Annals of Epidemiology / AoE {-}
 
 [Instructions link here](https://www.sciencedirect.com/journal/annals-of-epidemiology)
 
@@ -163,7 +171,50 @@ Abstract headings: Objective, Study Design and Setting, Results, and Conclusion
 |     Letters to the Editor       |     750                                                                           |     Not allowed             |                                                           |                                                                                                                                                                                                                                                                                                                               |
 |     Book Reviews                |     1500; generally invited                                                       |                             |                                                           |                                                                                                                                                                                                                                                                                                                               |
 
-# Global Epidemiology / GE {-}
+
+## Biostatistics & Epidemiology / BE {-}
+
+[Instructions link here](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbep20)
+
+|     Type                   |     Word count                    |     Abstract                                |     Keywords    |
+|----------------------------|-----------------------------------|---------------------------------------------|-----------------|
+|     research   articles    |     There   are no word limits    |     unstructured   abstract of 200 words    |     5           |
+|     review   articles      |     There   are no word limits    |     unstructured   abstract of 200 words    |     5           |
+
+
+# Epidemiology of some specific topics
+
+
+## Epidemiology & Infection / EI {-}
+
+[Instructions link here](https://www.cambridge.org/core/journals/epidemiology-and-infection/information/author-instructions)
+
+outline key results / importance in 3-5 short bullet points
+
+|     Type                       |     Word count                                                         |     Abstract                    |     References             |     Table Figure                         |
+|--------------------------------|------------------------------------------------------------------------|---------------------------------|----------------------------|------------------------------------------|
+|     Original   Papers          |     preferably between 2000 and 4000 words (excluding   references)    |                                 |     below 40               |                                          |
+|     Short   Reports            |      below 3000 (excluding references)                                 |                                 |     up to 10 references    |     not more than one table or figure    |
+|     Review   Articles          |     between 2500 and 4000 words                                        |                                 |                            |     no limit to tables and figures       |
+|     From the   Field           |     up to 2000 words                                                   |     no longer than 100 words    |     maximum of 15          |                                          |
+|     For Debate                 |                                                                        |                                 |                            |                                          |
+|     Letters to   the Editor    |                                                                        |                                 |                            |                                          |
+
+
+## Infection Control & Hospital Epidemiology / ICHE {-}
+
+[Instructions link here](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/information/author-instructions)
+
+|     Type                              |     abstract                                         |     word count                     |     Table or Figures                     |     References                    |
+|---------------------------------------|------------------------------------------------------|------------------------------------|------------------------------------------|-----------------------------------|
+|     Original Articles                 |     structured abstract of no more than 250 words    |     3,000 words                    |     no more than 7 tables and figures    |     no more than 40 references    |
+|     Concise Communications            |     narrative abstract of no more than 50 words      |     no more than 1,200 words       |     no more than 2 tables or figures     |     no more than 10 references    |
+|     Research Briefs                   |                                                      |     no more than 900 words         |     no more than 1 table or figure       |     no more than 10 references    |
+|     Letters to the Editor             |                                                      |     should not exceed 900 words    |     no more than 1 table or figure       |     no more than 10 references    |
+|     Invited Reviews                   |                                                      |                                    |                                          |                                   |
+|     Commentaries (invitation only)    |                                                      |                                    |                                          |                                   |
+
+## Global Epidemiology / GE {-}
 
 [Instructions link here](https://www.elsevier.com/journals/global-epidemiology/2590-1133/guide-for-authors)
 
@@ -181,22 +232,61 @@ Follows instructions established by the [Uniform Requirements for Manuscripts Su
 |     Editorials (usually   invited)                              |                                                                                                                                                                                              |          |
 |     Letters to the Editor                                       |                                                                                                                                                                                              |          |
 |     International   Perspectives                                |     Commentaries on public health issues around the world, especially in   developing countries.                                                                                             |          |
-# Epidemiology & Infection / EI {-}
 
-[Instructions link here](https://www.elsevier.com/journals/global-epidemiology/2590-1133/guide-for-authors)
 
-outline key results / importance in 3-5 short bullet points
+## Clinical Epidemiology and Global Health / CEGH {-}
 
-|     Type                       |     Word count                                                         |     Abstract                    |     References             |     Table Figure                         |
-|--------------------------------|------------------------------------------------------------------------|---------------------------------|----------------------------|------------------------------------------|
-|     Original   Papers          |     preferably between 2000 and 4000 words (excluding   references)    |                                 |     below 40               |                                          |
-|     Short   Reports            |      below 3000 (excluding references)                                 |                                 |     up to 10 references    |     not more than one table or figure    |
-|     Review   Articles          |     between 2500 and 4000 words                                        |                                 |                            |     no limit to tables and figures       |
-|     From the   Field           |     up to 2000 words                                                   |     no longer than 100 words    |     maximum of 15          |                                          |
-|     For Debate                 |                                                                        |                                 |                            |                                          |
-|     Letters to   the Editor    |                                                                        |                                 |                            |                                          |
+[Instructions link here](https://www.sciencedirect.com/journal/clinical-epidemiology-and-global-health)
 
-# Journal of Epidemiology and Community Health / JECH {-}
+|     Type                           |     Word count                                               |     References       |     Table or Fig                    |     Abstract      |     Keywords    |
+|------------------------------------|--------------------------------------------------------------|----------------------|-------------------------------------|-------------------|-----------------|
+|     Original Research Articles     |     not exceed 3000 words, but not less   than 2500 words    |     30 references    |     up to 2 tables and 4 Figures    |     250 words     |     5           |
+|     Editorials (solicited)         |     1200 words                                               |     10 references    |     Upto 1 figure and 1 table       |                   |                 |
+|     Review                         |     3500 - 4000                                              |     40               |     up to 4 tables and 3 Figures    |     structured    |     6           |
+|     Evidence updates               |                                                              |                      |                                     |                   |                 |
+|     Information and Commentary     |     500 words                                                |     5                |     Upto 1 figure and 2 table       |     structured    |     5           |
+|     Letters to the Editor          |     500 words                                                |     3                |     Upto 1 figure and 1 table       |                   |                 |
+
+
+## Journal of Epidemiology and Global Health / JEGH {-}
+
+[Instructions link here](https://www.springer.com/journal/44197/submission-guidelines)
+
+|     Type                    |     Abstract            |     Keywords           |     Format         |
+|-----------------------------|-------------------------|------------------------|--------------------|
+|     Research Article        |     150 to 250 words    |     4 to 6 keywords    |     Word/ LaTeX    |
+|     Review                  |                         |                        |                    |
+|     Perspective             |                         |                        |                    |
+|     Letter to the Editor    |                         |                        |                    |
+|     Commentary              |                         |                        |                    |
+
+## Epidemiology and Psychiatric Sciences / EPS {-}
+
+[Instructions link here](https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/information/author-instructions)
+
+|     Type                            |     Word count    |     Abstract                                |     Tables or Figures                                               |     Keywords    |
+|-------------------------------------|-------------------|---------------------------------------------|---------------------------------------------------------------------|-----------------|
+|     Original articles               |     4000 words    |     Structured, 400 words                   |     no more than a combined total of six tables and/or figures      |     4           |
+|     Editorials                      |     3000 words    |     non-structured abstract of 300 words    |                                                                     |                 |
+|     Special Articles                |     4000 words    |     Structured, 400 words                   |     no more than a combined total of six tables and/or figures      |                 |
+|     Commentaries                    |     1500 words    |     without an abstract                     |                                                                     |                 |
+|     Methodological Contributions    |     4000 words    |     structured abstract of 400 words        |     no more than a combined total of seven tables and/or figures    |     4           |
+|     Systematic Reviews              |     4000 words    |     structured abstract of 400 words        |     no more than a combined total of seven tables and/or figures    |     4           |
+|     Meta-analyses                   |     4000 words    |     structured abstract of 400 words        |     no more than a combined total of seven tables and/or figures    |     4           |
+
+## Genetic Epidemiology / GenE  {-}
+
+[Instructions link here](https://onlinelibrary.wiley.com/page/journal/10982272/homepage/forauthors.html)
+
+
+|     Type                     |     Format                          |     Keywords    |     Abstract    |
+|------------------------------|-------------------------------------|-----------------|-----------------|
+|     Research Articles        |     Free Format Submission          |     7           |     200         |
+|     Reviews                  |                                     |                 |                 |
+|     Letters to the Editor    |                                     |                 |                 |
+|     Perspectives             |                                     |                 |                 |
+
+## Journal of Epidemiology and Community Health / JECH {-}
 
 [Instructions link here](https://jech.bmj.com/pages/authors/#submission_guidelines)
 
@@ -219,25 +309,28 @@ outline key results / importance in 3-5 short bullet points
 |     Aphorism                                              |     up to 200 words     |                                                                           |     up to 5                |     1                             |
 |     Supplements                                           |                         |                                                                           |                            |                                   |
 
-# Others from known publishers {-}
+## More subject area journals {-}
 
-- [Journal of Epidemiology and Global Health](https://www.springer.com/journal/44197)
-- [Infection Control & Hospital Epidemiology](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology)
-- [Epidemiology and Psychiatric Sciences](https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences)
-- [Genetic Epidemiology](https://onlinelibrary.wiley.com/journal/10982272)
-- [Biostatistics & Epidemiology](https://www.tandfonline.com/toc/tbep20/current)
-- [Clinical Epidemiology and Global Health](https://www.sciencedirect.com/journal/clinical-epidemiology-and-global-health)
+Not an exhaustive list:
+
+- [Diabetes Epidemiology and Management](https://www.elsevier.com/journals/diabetes-epidemiology-and-management/2666-9706/guide-for-authors)
+- [Sleep Epidemiology](https://www.elsevier.com/journals/sleep-epidemiology/2667-3436/guide-for-authors)
+- [Social psychiatry and psychiatric epidemiology](https://www.springer.com/journal/127/submission-guidelines)
 
 
-# Others {-}
+# Others
+
+<!---
 
 I am not/less familiar with the following: 
 
 - [Clinical Epidemiology](https://www.dovepress.com/clinical-epidemiology-journal): See Wiki about the publisher [Dove Medical Press](https://en.wikipedia.org/wiki/Dove_Medical_Press)
+- [Epidemiologia](https://www.mdpi.com/journal/epidemiologia): See Wiki about the publisher [MDPI](https://en.wikipedia.org/wiki/MDPI)
 - [Frontiers in Epidemiology](https://www.frontiersin.org/journals/epidemiology): See Wiki about the publisher [Frontiers Media](https://en.wikipedia.org/wiki/Frontiers_Media)
 - [Cancer Epidemiology, Biomarkers & Prevention](https://aacrjournals.org/cebp): See Wiki about the publisher [AACR](https://en.wikipedia.org/wiki/American_Association_for_Cancer_Research)
+---->
 
-Some of the following seem to be international:
+## International {-}
 
 - [Journal of Epidemiology](https://jeaweb.jp/journal/): Japan Epidemiological Association
 - [Epidemiology and Health](https://www.e-epih.org/): Korean Society of Epidemiology
