@@ -2,7 +2,7 @@
 title: Choosing Epidemiological Journals
 author: 
   - Ehsan Karim
-date: "05 February 2023"
+date: "15 February 2023"
 output:
   bookdown::html_document2:
     citation_package: natbib
@@ -315,6 +315,23 @@ Not an exhaustive list:
 
 
 # Others
+
+##  Interdisciplinary {-}
+
+### WIREs Computational Statistics / WCS {-}
+
+[Instructions link here](https://wires.onlinelibrary.wiley.com/hub/about#ArticleCategories)
+
+|    <br>Categories    	|    <br>Audience    	|    <br>Word counts     	|    <br>Figures + Tables    	|    <br>Pages    	|
+|---	|---	|---	|---	|---	|
+|    <br>Perspective    	|    <br>live debate    	|    <br>3,000    	|    <br>4    	|    <br>5    	|
+|    <br>Primer    	|    <br>Meant for undergraduates    	|    <br>3,000    	|    <br>3    	|    <br>4    	|
+|    <br>Overview    	|    <br>non-technical treatment of an important topic suitable for advanced   students    	|    <br>8,000    	|    <br>12    	|    <br>15    	|
+|    <br>Advanced review    	|    <br>Aimed at advanced students     	|    <br>6,000    	|    <br>8    	|    <br>10    	|
+|    <br>Systematic review    	|    <br>syntheses of peer-reviewed literature    	|    <br>6,000    	|    <br>8    	|    <br>10    	|
+|    <br>Focus article    	|    <br>mini-reviews     	|    <br>4,000    	|    <br>6    	|    <br>6    	|
+|    <br>Software focus    	|    <br>packages with high utility, review capabilities and how-to’s    	|    <br>3,000    	|    <br>3    	|    <br>4    	|
+|    <br>Update    	|    <br>include new findings    	|    <br>Flexible    	|    <br>Flexible    	|    <br>Flexible    	|
 
 <!---
 
