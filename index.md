@@ -2,7 +2,7 @@
 title: Choosing Epidemiological Journals
 author: 
   - Ehsan Karim
-date: "15 February 2023"
+date: "02 October 2023"
 output:
   bookdown::html_document2:
     citation_package: natbib
@@ -312,6 +312,21 @@ Not an exhaustive list:
 - [Diabetes Epidemiology and Management](https://www.elsevier.com/journals/diabetes-epidemiology-and-management/2666-9706/guide-for-authors)
 - [Sleep Epidemiology](https://www.elsevier.com/journals/sleep-epidemiology/2667-3436/guide-for-authors)
 - [Social psychiatry and psychiatric epidemiology](https://www.springer.com/journal/127/submission-guidelines)
+
+
+# Public Health Journals
+
+## Public Health (PH) {-}
+
+[Instructions link here](https://www.elsevier.com/journals/public-health/0033-3506/guide-for-authors)
+
+| Article type                | Word length | Tables/figures | References | Peer reviewed |
+|-----------------------------|-------------|----------------|------------|---------------|
+| Original research           | 3000        | 5              | 100        | Yes           |
+| Review article              | 3000        | 5              | 100        | Yes           |
+| Short Communication         | 1500        | 1              | 10         | Yes           |
+| Letter                      | 750         | 1              | 5          | No            |
+| Celebrating Public Health Lives | 750    | 0              | 5          | No            |
 
 
 # Others

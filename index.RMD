@@ -318,6 +318,21 @@ Not an exhaustive list:
 - [Social psychiatry and psychiatric epidemiology](https://www.springer.com/journal/127/submission-guidelines)
 
 
+# Public Health Journals
+
+## Public Health (PH) {-}
+
+[Instructions link here](https://www.elsevier.com/journals/public-health/0033-3506/guide-for-authors)
+
+| Article type                | Word length | Tables/figures | References | Peer reviewed |
+|-----------------------------|-------------|----------------|------------|---------------|
+| Original research           | 3000        | 5              | 100        | Yes           |
+| Review article              | 3000        | 5              | 100        | Yes           |
+| Short Communication         | 1500        | 1              | 10         | Yes           |
+| Letter                      | 750         | 1              | 5          | No            |
+| Celebrating Public Health Lives | 750    | 0              | 5          | No            |
+
+
 # Others
 
 ##  Interdisciplinary {-}
