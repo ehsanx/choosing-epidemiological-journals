@@ -332,10 +332,25 @@ Not an exhaustive list:
 | Letter                      | 750         | 1              | 5          | No            |
 | Celebrating Public Health Lives | 750    | 0              | 5          | No            |
 
+## American Journal of Health Promotion / AJHP {-}
+
+[Instructions link here](https://journals.sagepub.com/author-instructions/AHP)
+
+| Article Type               | Description                                                                                     | Word Counts for Different Parts                                                                                                                                                                                                                                                                                                                                                                                              | Number of Figures and Tables                 | Number of References                          |
+|----------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------|
+| **Quantitative Research**  | Evaluated based on relevance, design, execution, and reporting quality.                         | - Abstract: No more than 220 words<br> - Main text: 2500 to 3500 words (12 to 15 pages)                                                                                                                                                                                                                                                                                                                                       | Tables and figure captions if applicable     | Up to 30-40 recommended; >60 on case-by-case |
+| **Qualitative Research**   | Evaluated based on relevance, design, execution, and reporting quality.                         | - Abstract: No more than 220 words<br> - Main text: 3000 to 4000 words (12 to 15 pages)                                                                                                                                                                                                                                                                                                                                       | Tables and figure captions if applicable     | Up to 30-40 recommended; >60 on case-by-case |
+| **Systematic Literature Reviews** | Evaluated on relevance, review process, trend recognition, and presentation quality.             | - Abstract: No more than 220 words<br> - Main text: 3000 to 4500 words (12 to 18 pages)                                                                                                                                                                                                                                                                                                                                       | Tables and figure captions if applicable     | More common; commensurate with length        |
+| **Critical Issues and Trends** | Describes impactful events/constructs in health promotion. Importance and presentation quality. | - Synopsis: No more than 100 words<br> - Main text: No more than 1500 words, including references. Figures and tables not encouraged; if included, must reduce word count accordingly (use formula: number of columns x number of rows x 10 = words to deduct from the 1500 word limit).                                                                                                                                       | Not encouraged; if included, adjust word count | Up to 15 references                          |
+| **Applied Research Briefs** | Condensed research findings relevant to health promotion practice.                               | - Abstract: No more than 220 words<br> - Main text: No more than 1800 words including abstract, references, and tables. Specific sections have recommended word counts: Purpose (100 to 200 words), Methods (250 to 600 words), Results (250 to 550 words), Discussion (250 to 450 words). Tables' word count equivalent is calculated by multiplying the number of columns by the number of rows by 10 and subtracting from the 1800 word limit. | Limited to two tables or figures             | Limited to 15 references                     |
+
+
 
 # Others
 
 ##  Interdisciplinary {-}
+
+
 
 ### WIREs Computational Statistics / WCS {-}
 
